@@ -9,10 +9,7 @@ public class Switch {
 		switch (x)
 		
 		{
-		default:
-			
-			System.out.println("default statement");
-			
+		
 		case 0:
 			
 			System.out.println(0);
@@ -26,7 +23,9 @@ public class Switch {
 			
 			System.out.println(2);
 			
-			
+			default:
+				
+				System.out.println("default statement");
 		}
 	}
 		
