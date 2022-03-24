@@ -14,6 +14,6 @@ public class Static_block {
     
     static
     {
-    	system.out.println("Good Morining")
+    	System.out.println("Good Morining");
     }
 }
