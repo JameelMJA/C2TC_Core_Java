@@ -27,7 +27,7 @@ class CantVote extends Exception//checked Exception
 {
 	CantVote(String msg)
 	{
-		//super(msg);
+		//super(Ms);
 		
 	}	
 		
